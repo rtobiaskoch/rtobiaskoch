@@ -119,9 +119,9 @@ author:
   location         : "CSU"
   email            : "tobias.koch@colostate.edu"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?hl=en&user=rXxvJOIAAAAJ&inst=6416714965532506866" # OPTIONAL
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rtobiaskoch"
