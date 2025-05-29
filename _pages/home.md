@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   #image: /assets/images/header.jpeg
-title: "  "
+title: "Robert Tobias 'Toby' Koch "
 tagline: "  "   
 author_profile: true
 classes: wide
@@ -45,7 +45,7 @@ feature_row4:
 
 Member of the [X lab](link to your lab's website)! 
 
-# Reseach
+# Research
 
 {% include feature_row id="feature_row1" type= "left" %}
 
