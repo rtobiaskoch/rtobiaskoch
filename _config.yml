@@ -116,12 +116,9 @@ author:
   name             : "Toby Koch"
   avatar           : "assets/home/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student in Microbiology studying the evolution of arboviruses."
-  location         : "Colorado State University"
+  location         : "CSU"
   email            : "tobias.koch@colostate.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tobias.koch@colostate.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
