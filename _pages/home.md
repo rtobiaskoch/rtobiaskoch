@@ -49,10 +49,6 @@ Member of the [Ebel Lab](https://labs.vetmedbiosci.colostate.edu/ebel/)!
 
 {% include feature_row id="feature_row1" type= "left" %}
 
-# Teaching
-
-{% include feature_row id="feature_row2" type= "left" %}
-
 # Talks
 
 {% include feature_row id="feature_row3" type= "left" %}
